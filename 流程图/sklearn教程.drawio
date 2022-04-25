@@ -304,20 +304,47 @@
                 <mxCell id="108" value="text" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#666666;fillColor=#f5f5f5;" parent="1" vertex="1">
                     <mxGeometry x="40" y="1810" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="117" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;fontFamily=Helvetica;fontSize=12;fontColor=#000000;endArrow=classic;strokeColor=#001DBC;fillColor=#0050ef;" edge="1" parent="1" source="113" target="114">
+                <mxCell id="117" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;fontFamily=Helvetica;fontSize=12;fontColor=#000000;endArrow=classic;strokeColor=#001DBC;fillColor=#0050ef;" parent="1" source="113" target="114" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="118" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;fontFamily=Helvetica;fontSize=12;fontColor=#000000;endArrow=classic;strokeColor=#001DBC;fillColor=#0050ef;" edge="1" parent="1" source="113" target="115">
+                <mxCell id="118" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;fontFamily=Helvetica;fontSize=12;fontColor=#000000;endArrow=classic;strokeColor=#001DBC;fillColor=#0050ef;" parent="1" source="113" target="115" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="113" value="模型拟合思路" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#666666;fillColor=#f5f5f5;" vertex="1" parent="1">
+                <mxCell id="113" value="模型拟合思路" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#666666;fillColor=#f5f5f5;" parent="1" vertex="1">
                     <mxGeometry x="194" y="2288" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="114" value="已知函数形式，拟合参数" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#666666;fillColor=#f5f5f5;" vertex="1" parent="1">
+                <mxCell id="114" value="已知函数形式，拟合参数" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#666666;fillColor=#f5f5f5;" parent="1" vertex="1">
                     <mxGeometry x="389" y="2170" width="221" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="115" value="未知函数类型，通过将原函数转为分段函数方法，通过简单线性拟合方法进行拟合" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#666666;fillColor=#f5f5f5;" vertex="1" parent="1">
+                <mxCell id="115" value="未知函数类型，通过将原函数转为分段函数方法，通过简单线性拟合方法进行拟合" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#666666;fillColor=#f5f5f5;" parent="1" vertex="1">
                     <mxGeometry x="386" y="2387" width="463" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="125" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=12;fontColor=#000000;fillColor=#0050ef;strokeColor=#001DBC;" edge="1" parent="1" source="120" target="122">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="120" value="大项目靠定制" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#666666;fillColor=#f5f5f5;" vertex="1" parent="1">
+                    <mxGeometry x="248" y="2530" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="126" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=12;fontColor=#000000;fillColor=#0050ef;strokeColor=#001DBC;" edge="1" parent="1" source="121" target="124">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="121" value="小项目靠产品复制" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#666666;fillColor=#f5f5f5;" vertex="1" parent="1">
+                    <mxGeometry x="248" y="2631" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="122" value="以客户为中心" style="whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#000000;rounded=1;labelBackgroundColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="448" y="2530" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="124" value="以产品为中心" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#666666;fillColor=#f5f5f5;" vertex="1" parent="1">
+                    <mxGeometry x="448" y="2631" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="128" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;fontFamily=Helvetica;fontSize=12;fontColor=#000000;endArrow=classic;strokeColor=#001DBC;fillColor=#0050ef;" edge="1" parent="1" source="127" target="120">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="129" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;labelBackgroundColor=default;fontFamily=Helvetica;fontSize=12;fontColor=#000000;endArrow=classic;strokeColor=#001DBC;fillColor=#0050ef;" edge="1" parent="1" source="127" target="121">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="127" value="项目思路" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#666666;fillColor=#f5f5f5;" vertex="1" parent="1">
+                    <mxGeometry x="40" y="2574" width="120" height="60" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
